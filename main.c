@@ -1,5 +1,6 @@
 #include <stdio.h>
-#include "encryptionClean.h"
+//check other headers
+
 int main()
 {
   int i;
